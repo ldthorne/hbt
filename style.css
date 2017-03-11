@@ -5,6 +5,7 @@ html, body {
   height: 100%;
   overflow: hidden;
   background: #111;
+  text-align: center;
 }
 
 canvas {
