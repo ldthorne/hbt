@@ -56,8 +56,11 @@ h1 {
   h1 {
     font-size: 1.25em;
   }
-  img {
-    width: 80%;
+}
+
+@media (max-width: 1024px) {
+  .content > img {
+    display: none;
   }
 }
 
